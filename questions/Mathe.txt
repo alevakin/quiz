@@ -1,0 +1,60 @@
+Wieviel ist 5*3?
+8
+12
+20
+15
+4
+Wie lautet die korrekte Formel fuer die Berechnung der Kreisflaeche?
+2 * r * PI
+r^2 * PI
+(4/3) * PI * r^3
+4 * PI * r^2
+2
+Der sogenannte Radius ist der…?
+halbe Durchmesser eines Kreises
+Durchmesser eines Kreises
+Umfang eines Kreises
+Mittelpunkt eines Kreises
+1
+Wie lautet keine der drei binomischen Formeln?
+(a+b)^2
+(a-b)^2
+(ax+2b)^2
+(a+b)*(a-b)
+3
+Wenn man eine beliebige Zahl mit 0 multipliziert, ist das Ergebnis…?
+0
+1
+Keine Zahl
+Unendlich
+1
+Wie heißt die Zahl unter einem Bruchstrich?
+Nenner
+Zaehler
+Fakultaet
+Multiplikator
+1
+180 Grad ist die Summe aller Innenwinkel in einem…?
+Viereck
+Dreieck
+Fünfeck
+Sechseck
+2
+Worum dreht sich die Stochastik?
+Flaecheninhalte
+Wahrscheinlichkeiten
+Koerpervolumina
+Auflösen von Gleichungen
+2
+Welches Teilgebiet der Mathematik beschäftigt sich mit dem Auflösen von Gleichungen?
+Geometrie
+Stochastik
+Algebra
+Division
+3
+Aus wievielten Sekunden besteht eine Stunde?
+6000
+600
+2400
+3600
+4
